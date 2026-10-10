@@ -1,0 +1,5 @@
+path,is_dir,content_b64
+/,True,
+/home,True,
+/home/user,True,
+/home/user/readme.txt,False,aGVsbG8=

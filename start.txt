@@ -1,0 +1,7 @@
+who
+pwd
+ls
+cd /home/user
+pwd
+ls
+rev readme.txt
